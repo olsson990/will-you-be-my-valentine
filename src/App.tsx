@@ -16,17 +16,16 @@ export default function Page() {
       "Are you sure?",
       "What if I asked really nicely?",
       "Pretty please",
-      "With a chocolate rice cake on top",
-      "What about a matcha frostie",
+      "What about some coconut water",
       "PLEASE POOKIE",
       "But :*(",
       "I am going to die",
       "Yep im dead",
-      "ok ur talking to nathan's ghost",
+      "ok ur talking to Olu's ghost",
       "please babe",
       ":((((",
       "PRETTY PLEASE",
-      "Estoy muerto",
+      "S'il te plaît mon beau bébé",
       "No :(",
     ];
 
@@ -46,7 +45,7 @@ export default function Page() {
             className="h-[200px]"
             src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
           />
-          <h1 className="my-4 text-4xl">Will you be my Valentine?</h1>
+          <h1 className="my-4 text-4xl">Kadhy Kimberley Zonon, Will you be my Valentine? 🥹💐</h1>
           <div className="flex items-center">
             <button
               className={`mr-4 rounded bg-green-500 px-4 py-2 font-bold text-white hover:bg-green-700`}
